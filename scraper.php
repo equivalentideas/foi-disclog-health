@@ -3,8 +3,8 @@
 //18 March 2014
 date_default_timezone_set('Australia/Sydney');
 
-require '../scraper/scraperwiki.php';
-require '../scraper/scraperwiki/simple_html_dom.php';
+require 'scraperwiki.php';
+require 'scraperwiki/simple_html_dom.php';
 
 //Options
 $department_name = "Department of Health";
