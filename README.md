@@ -9,6 +9,13 @@ It is designed to run on [Morph.io](https://morph.io/), which hosts and runs the
 
 [Morph.io](https://morph.io/) also provides a really helpful API to output data from the scraper.
 
+### FOI Link
+
+This is the link the scraper is looking at. If the page is old (a previous year), non-existant or broken the scraper won't work. Open an issue with the new link and I'll fix. Thanks!
+
+ * [http://www.health.gov.au/internet/main/publishing.nsf/Content/foi-disc-log](http://www.health.gov.au/internet/main/publishing.nsf/Content/foi-disc-log)
+ 
+ 
 #### Licence
 
 Scraper is licenced under the MIT Licence. See included licence file for more information.
